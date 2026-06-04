@@ -1,4 +1,3 @@
-```md
 # Hi, I'm Philemon 👋
 
 I'm a Senior Frontend / Full-Stack Engineer with 6+ years of experience building production web, mobile, and backend systems.
@@ -166,4 +165,3 @@ I'm especially interested in fintech, insurance, SaaS, marketplaces, dev tools, 
 - Portfolio: https://dev-philemon.vercel.app
 - X: https://x.com/philemon_eniola
 - LinkedIn: https://linkedin.com/in/philemon-eniola
-```
