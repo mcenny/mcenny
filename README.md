@@ -1,167 +1,145 @@
 # Hi, I'm Philemon 👋
 
-I'm a Senior Frontend / Full-Stack Engineer with 6+ years of experience building production web, mobile, and backend systems.
+I'm a **Backend / Full-Stack Engineer** with 4+ years of experience
+building production web, mobile, and backend systems.
 
-I work mainly with React, Next.js, React Native, NestJS, PostgreSQL, Prisma, and TypeScript. I have built and shipped marketplace platforms, insurance products, payment flows, real-time dashboards, mobile apps, and backend APIs.
+I work mainly with **Node.js, NestJS, TypeScript, PostgreSQL, Prisma,
+React, Next.js, and React Native**. My recent work includes insurance
+and financial systems, premium financing and installment repayment
+workflows, payment integrations, marketplace platforms, mobile
+applications, and backend APIs.
 
-Most of my experience sits at the intersection of product engineering and system ownership: turning business problems into reliable, usable software.
+I enjoy turning business requirements into reliable systems, with
+particular interest in **backend architecture, financial transaction
+processing, APIs, data consistency, and production systems**.
 
 ## What I Build
 
-- Production-grade React and Next.js applications
-- Internal dashboards and admin portals
-- Marketplace and booking platforms
-- Insurance, fintech, and payment-heavy workflows
-- React Native mobile applications
-- NestJS backend APIs
-- PostgreSQL-backed products
-- Real-time notification systems
-- Full-stack TypeScript products from idea to deployment
+-   Backend APIs and services with Node.js and NestJS
+-   Financial and payment workflows
+-   Premium financing and installment repayment systems
+-   Payment-provider integrations and webhook processing
+-   PostgreSQL-backed applications and transactional data models
+-   React and Next.js applications
+-   React Native mobile applications
+-   Internal dashboards and admin portals
+-   Marketplace and service platforms
+-   Full-stack TypeScript products from database design to deployment
 
 ## Selected Work
 
 ### Larna Insurance
 
-End-to-end insurance platform built as the sole engineer across web, mobile, backend, payments, and infrastructure.
+An insurtech platform where I work as **Lead Engineer**, with primary
+ownership of backend architecture and the React Native mobile
+application.
 
-**Stack:** Next.js, React Native, NestJS, PostgreSQL, Prisma, Paystack, Vercel, Render, Neon
+**Stack:** NestJS, Node.js, TypeScript, PostgreSQL, Prisma, React
+Native, Next.js, Paystack, Render, Neon
 
 **Highlights:**
 
-- Built the customer-facing web application
-- Built the React Native mobile application
-- Architected the NestJS backend API
-- Designed PostgreSQL data models with Prisma
-- Integrated one-time, recurring, and installment Paystack payments
-- Implemented idempotent webhook handling for payment events
-- Supported KYC and document-related workflows
-- Deployed and operated the production stack
+-   Architected and implemented the backend creditor and
+    premium-financing system, enabling customers to pay insurance
+    premiums in installments while the platform finances the full
+    premium upfront.
+-   Designed PostgreSQL schemas with Prisma to model financial states,
+    repayment schedules, payment records, and transactional
+    relationships.
+-   Integrated Paystack for one-time, recurring, and installment premium
+    collections.
+-   Implemented idempotent webhook handling and HMAC signature
+    verification for payment events.
+-   Built the React Native mobile application for iOS and Android.
+-   Implemented secure JWT authentication and typed API clients.
+-   Deployed and operated production backend infrastructure using Render
+    and Neon.
+-   Configured transactional email infrastructure for financial
+    documents and OTPs.
 
-> Some product details are confidential because the platform is still in development.
+> Some product details are confidential because the platform is still in
+> development.
 
 ### Filmmakers Mart
 
-A film services marketplace connecting Africa's film industry with productions globally.
+A film-services marketplace connecting Africa's film industry with
+productions globally.
 
 **Stack:** Next.js, TypeScript, Firebase, SWR, Framer Motion
 
 **Highlights:**
 
-- Led frontend architecture across customer, admin, and provider portals
-- Built real-time Firebase notifications for booking and status updates
-- Optimized API data fetching and cache invalidation with SWR
-- Shipped dynamic pricing and payment landing experiences
-- Rebuilt public and dashboard interfaces with a mobile-first approach
-- Mentored junior engineers through code reviews and delivery cycles
+-   Led frontend architecture across customer, admin, and
+    service-provider portals.
+-   Integrated and optimized REST APIs for marketplace inventory and
+    user management.
+-   Implemented caching and API data-fetching strategies with SWR.
+-   Built real-time Firebase notifications for booking and status
+    updates.
+-   Shipped dynamic pricing and payment-related experiences.
+-   Mentored junior engineers through code reviews and delivery cycles.
 
-## Public Projects
+### Acefund
 
-### Crack Dev
+A full-stack investment platform where I built the backend using NestJS
+and PostgreSQL.
 
-A public learning repository documenting my journey through computer science fundamentals, backend engineering, Go, distributed systems, and AI engineering.
+**Highlights:**
 
-I use this repo to share notes, labs, diagrams, projects, and lessons from my long-term growth as an engineer.
-
-**Focus areas:**
-
-- Computer Science fundamentals
-- Data Structures and Algorithms
-- Go
-- Operating Systems
-- Networking
-- Distributed Systems
-- AI Engineering
-
-### InsureOps
-
-A fictional insurance operations dashboard built to demonstrate how I approach workflow-heavy frontend and full-stack product engineering.
-
-**Planned features:**
-
-- Policy management
-- Claims workflow
-- Customer records
-- Payment status tracking
-- KYC-style document upload UI
-- Role-based admin actions
-- Advanced data tables
-- Loading, empty, error, and retry states
-
-> This is an independent portfolio project using fictional data and simplified workflows. It is not based on any proprietary product, private client code, confidential business logic, or internal company system.
-
-### MarketPulse
-
-A fictional marketplace operations dashboard for managing bookings, providers, payments, notifications, and admin activity.
-
-**Planned features:**
-
-- Real-time booking updates
-- Provider status management
-- Notification center
-- Activity feed
-- Admin dashboard analytics
-- Optimistic UI updates
-- Event-driven frontend state
-
-## Long-Term Engineering Direction
-
-While I am currently strongest in frontend and full-stack TypeScript engineering, I am intentionally deepening my backend and systems foundation.
-
-I'm currently studying:
-
-- Go
-- Data Structures and Algorithms
-- Operating Systems
-- Networking
-- PostgreSQL internals
-- System Design
-- Distributed Systems
-- RAG
-- AI Agents
-- Production AI Systems
-
-My long-term goal is to grow into a backend and AI systems engineer who can design, build, and operate reliable systems at scale.
-
-## Current Focus
-
-- Applying for Senior Frontend, Full-Stack, Product Engineer, and TypeScript Engineer roles
-- Building public proof-of-work projects around dashboards, payments, insurance workflows, backend systems, and AI
-- Strengthening my backend foundation with Go, distributed systems, and production AI engineering
-- Sharing my learning and engineering notes publicly
+-   Built backend APIs for user portfolios and financial transactions.
+-   Designed PostgreSQL data models and secure API endpoints.
+-   Worked across the application lifecycle from backend development to
+    deployment.
 
 ## Tech Stack
 
-### Frontend
-
-React, Next.js, TypeScript, React Native, Tailwind CSS, Framer Motion, SWR, Zustand
-
 ### Backend
 
-Node.js, NestJS, Express.js, PostgreSQL, Prisma, REST APIs
+Node.js, NestJS, Express.js, TypeScript, REST APIs, API architecture,
+webhooks, payment integrations, asynchronous processing
+
+### Financial Systems
+
+Payment processing, premium financing, installment repayment,
+idempotency, webhook security, transactional data consistency
+
+### Database
+
+PostgreSQL, Prisma ORM, schema design, transactions, indexing, query
+optimization
+
+### Frontend & Mobile
+
+React, Next.js, React Native, TypeScript, Tailwind CSS, Framer Motion,
+SWR, Zustand
 
 ### Infrastructure
 
-Docker, GitHub Actions, Vercel, Render, Neon, Google Cloud Storage
+Render, Neon, Vercel, Google Cloud Platform, GitHub Actions, CI/CD
 
-### Currently Learning
+## Engineering Practices
 
-Go, Distributed Systems, AI Engineering, Computer Science Fundamentals
+-   Backend architecture and system design
+-   Database design and data modeling
+-   API design
+-   Authentication and authorization
+-   Payment and webhook integrations
+-   Transactional data processing
+-   Code review and technical mentoring
+-   Production deployment and operations
+-   TypeScript strict mode
+-   Security best practices
 
 ## Open To
 
-I'm currently open to roles such as:
+I'm open to **Backend Engineer, Full-Stack Engineer, and Senior Software
+Engineer** opportunities.
 
-- Senior Frontend Engineer
-- Full-Stack TypeScript Engineer
-- Product Engineer
-- React / Next.js Engineer
-- Frontend Platform Engineer
-- Backend Engineer, Node.js / NestJS
-
-I'm especially interested in fintech, insurance, SaaS, marketplaces, dev tools, AI products, and remote-first teams.
+I'm especially interested in **fintech, insurance, SaaS, marketplaces,
+developer tools, AI products, and remote-first teams**.
 
 ## Links
 
-- Portfolio: https://dev-philemon.vercel.app
-- X: https://x.com/philemon_eniola
-- LinkedIn: https://linkedin.com/in/philemon-eniola
+-   LinkedIn: https://linkedin.com/in/philemon-eniola
+-   GitHub: https://github.com/mcenny
+-   X: https://x.com/philemon_eniola
